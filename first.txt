@@ -2,3 +2,4 @@ My name is Neha jadhav
 Aarya is  my daughter
 
 This is a git text sample & checking the update.
+Today we learn stage the file 
