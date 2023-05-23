@@ -3,3 +3,5 @@ Aarya is  my daughter
 
 This is a git text sample & checking the update.
 Today we learn stage the file 
+
+First time pushing to github
