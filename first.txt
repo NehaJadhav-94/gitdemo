@@ -7,3 +7,6 @@ Today we learn stage the file
 First time pushing to github
 
 Checking first to the github
+one more line added to the excel
+
+Cheking lines to push into the github
