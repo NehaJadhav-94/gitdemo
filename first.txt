@@ -1,14 +1,1 @@
-My name is Neha jadhav
-Aarya is  my daughter
-
-This is a git text sample & checking the update.
-Today we learn stage the file 
-
-First time pushing to github
-
-Checking first to the github
-one more line added to the excel
-
-Cheking lines to push into the github
-
-changes done by B
+This is demo for github. 
