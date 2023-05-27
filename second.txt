@@ -1,11 +1,8 @@
 There is a second scenario for github
 
-Changing new feature
-<<<<<<< HEAD
+Changing new feature - from local
 
 for brach merging local
-=======
->>>>>>> e005c705f1c494116ce4d49b81389c4866839188
 
 for braching another feature
 >>>>>>> 22fabb73525ca84e38c78683375e538a79a51e28
