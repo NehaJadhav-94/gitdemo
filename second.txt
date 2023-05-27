@@ -1,6 +1,11 @@
 There is a second scenario for github
 
+<<<<<<< HEAD
 Changing new feature - from local
+=======
+Changing new feature - from github
+<<<<<<< HEAD
+>>>>>>> e35043b7c821d949153c9bada815809c96c53e6f
 
 for brach merging local
 
