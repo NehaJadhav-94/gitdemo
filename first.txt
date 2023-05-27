@@ -1,3 +1,11 @@
 This is demo for github. --changes done by local
+<<<<<<< HEAD
 
 comparing with github
+=======
+=======
+This is demo for github. --changes done by github
+>>>>>>> a6da77f3e978e9f005d1dbc8637bc4ee067dada5
+
+comparing with local
+>>>>>>> 74b8ff12871051aa740000c313d113a236fa043a
