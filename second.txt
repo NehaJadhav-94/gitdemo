@@ -1,3 +1,7 @@
 There is a second scenario for github
 
+<<<<<<< HEAD
 Changing current feature
+=======
+Changing new feature
+>>>>>>> e005c705f1c494116ce4d49b81389c4866839188
