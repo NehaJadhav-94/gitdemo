@@ -1,6 +1,6 @@
 There is a second scenario for github
 
-Changing new feature
+Changing new feature - from github
 <<<<<<< HEAD
 
 for brach merging local
